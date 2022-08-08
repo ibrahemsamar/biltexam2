@@ -30,11 +30,3 @@ King Abdulaziz University
 
 ## Projects
 Senior Project called "Pationts' Care"
-
-
-## Extra 5 projects
-1- poweshell command
-2- EBS & EC2
-3- AWS System Manager
-4- Create enviroment variables
-5- Build a Java-Maven with Jenkins
