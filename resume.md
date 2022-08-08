@@ -29,7 +29,7 @@ King Abdulaziz University
 
 
 ## Projects
-Senior Project called "Pationts' Care"
+Senior Project called "Pationts' Care" 
 
 
 ## Extra 5 projects
@@ -38,3 +38,5 @@ Senior Project called "Pationts' Care"
 3- AWS System Manager
 4- Create enviroment variables
 5- Build a Java-Maven with Jenkins
+=======
+
